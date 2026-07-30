@@ -1,20 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sai%20Tharun%20Reddy%20Nallala&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Flutter%20Developer%20|%20AI/ML%20Enthusiast&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Sai%20Tharun%20Reddy%20Nallala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Flutter%20Developer%20|%20AI/ML%20Enthusiast&descAlignY=60"/>
 
-# Hi 👋, I'm **Sai Tharun Reddy Nallala**
+# Hi 👋, I'm Sai Tharun Reddy Nallala
+
+<h3 align="center">
+Software Developer • Flutter Developer • AI/ML Enthusiast • Full-Stack Developer
+</h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3200&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Developer;Flutter+Developer;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Quick+Learner;Problem+Solver;Open+Source+Learner;Always+Building+Something+New+🚀"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Developer;Flutter+Developer;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Quick+Learner;Problem+Solver;Open+Source+Learner;Always+Building+Something+New"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;Flutter+Developer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Applications;Always+Learning+New+Technologies+🚀"/>
-</p>
 
-<p align="center">
 <a href="mailto:saitharunreddynallala@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -33,11 +32,20 @@
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=saitharun29&style=for-the-badge&color=0e75b6)
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=saitharun29&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/saitharun29?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/saitharun29?logo=github&style=for-the-badge"/>
+
+</p>
 
 </div>
 
 ---
+
 
 # 💫 About Me
 
