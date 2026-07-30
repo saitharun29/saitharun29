@@ -1,53 +1,53 @@
-<h1 align="center">Hi 👋, I'm Sai Tharun Reddy Nallala</h1>
-<h3 align="center">Software Developer | AI/ML Enthusiast | Full-Stack & Flutter Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI%2FML+Enthusiast;Flutter+Developer;Full-Stack+Web+Developer;Open+Source+Learner;Always+Building+Something+New!" />
-</p>
+# Hi 👋, I'm Sai Tharun Reddy Nallala
+
+### 🚀 Software Developer | AI/ML Enthusiast | Flutter Developer | Full-Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Impactful+Software.;Flutter+Developer.;AI+%26+Machine+Learning+Enthusiast.;Always+Learning+Something+New." />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-🎓 B.Tech in Computer Science & Engineering at **Amrita Vishwa Vidyapeetham (2023–2027)**
+🎓 B.Tech in Computer Science & Engineering  
+📍 Amrita Vishwa Vidyapeetham (2023 – 2027)
 
-💡 Passionate about solving real-world problems through software development and AI.
+💡 I enjoy building software that solves real-world problems through modern technologies and intuitive user experiences.
 
-💻 Interested in
+I have experience in
 
-- Full-Stack Development
-- Mobile App Development (Flutter)
-- Artificial Intelligence & Machine Learning
-- Data Science
-- Software Engineering
+- 📱 Flutter Application Development
+- 🌐 Full Stack Web Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Science
+- 💻 Software Development
 
-🌱 Currently Learning
+Currently learning
 
-- Advanced Flutter
-- Firebase
-- System Design
 - Data Structures & Algorithms
+- Advanced Flutter
 - Backend Development
-
-📫 Reach me at
-
-**Email:** saitharunreddynallala@gmail.com
+- System Design
+- Cloud Technologies
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/saitharunreddynallala">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://github.com/saitharunreddy">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
 <a href="mailto:saitharunreddynallala@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://linkedin.com/in/saitharunreddynallala">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
 
@@ -58,32 +58,36 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,dart,javascript,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,c,dart,javascript,html,css,sql"/>
 </p>
 
-### Frameworks & Libraries
+### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,firebase" />
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,firebase"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,eclipse,postman"/>
 </p>
 
 ### AI / Data Science
 
-- Scikit-Learn
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
 - Pandas
 - NumPy
+- Scikit-Learn
 - Matplotlib
 - Jupyter Notebook
 
@@ -91,92 +95,76 @@
 
 # 🚀 Featured Projects
 
-## 🩺 Explainable AI for Clinical Risk Prediction
+## 📱 Analyn – Therapist Service Platform
 
-- Comparative study of SHAP & LIME
-- Machine Learning for Type-2 Diabetes Prediction
-- Explainable AI (XAI)
+**Flutter • Firebase • Cloud Firestore**
+
+✔ Secure Authentication
+
+✔ Therapist KYC Verification
+
+✔ Real-time Job Management
+
+✔ Earnings Dashboard
+
+✔ Firebase Storage
+
+✔ Therapist–Client Communication
 
 ---
 
 ## 🏨 Hotel Management System
 
-- React
-- Node.js
-- MySQL
-- Authentication
+**React • MySQL**
+
 - Booking Management
-
----
-
-## 📱 Therapist Mobility App
-
-Flutter • Firebase • Google Maps • Stripe
-
-Features
-
-- Authentication
-- Therapist Approval
-- Job Management
-- Live Location
-- Payments
-- Earnings Dashboard
+- Room Allocation
+- Customer Management
+- Database Integration
 
 ---
 
 ## 📚 Library Management System
 
-- Java
-- SQL
-- NetBeans
+**Java • SQL • NetBeans**
+
+- Book Management
+- Issue & Return System
+- Member Records
+- SQL Database Integration
 
 ---
 
-## ⌨️ Typing Tutor
+# 📜 Certifications
 
-- C Programming
-- JSON
+🏅 IBM Data Science
 
----
-
-## 🎮 Hangman Game
-
-- Python
-- File Handling
-- Game Logic
+🏅 AI Fundamentals – DataCamp
 
 ---
 
-# 🏆 Achievements
+# 🤝 Volunteering
 
-🥇 1st Prize — Triple Point Event (Anokha National Fest)
+🌍 Volunteer — ICSRF 2025 International Conference on Sustainable & Resilient Futures
 
-📜 IBM Data Science Professional Certification
-
-📄 Research Paper on Explainable Artificial Intelligence (XAI)
+🎓 Entrepreneurship & Innovation Awareness Program (SSR Project)
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-# 🏅 LeetCode Progress
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins"/>
 </p>
 
 ---
@@ -184,17 +172,35 @@ Features
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-# ✨ Quote
-
-> *"Code. Learn. Build. Repeat."*
-
----
+# 🏆 GitHub Trophies
 
 <p align="center">
-Thanks for visiting my profile ❤️
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
 </p>
+
+---
+
+# 💡 Quote
+
+> **"Code with curiosity. Build with purpose. Learn without limits."**
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
+
+⭐ Thanks for visiting my profile!
+
+</div>
