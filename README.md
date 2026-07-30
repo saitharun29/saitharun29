@@ -4,7 +4,11 @@
 
 # Hi 👋, I'm **Sai Tharun Reddy Nallala**
 
-### 🚀 Software Developer | Flutter Developer | AI/ML Enthusiast | Full-Stack Developer
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3200&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Developer;Flutter+Developer;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Quick+Learner;Problem+Solver;Open+Source+Learner;Always+Building+Something+New+🚀"/>
+
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;Flutter+Developer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Applications;Always+Learning+New+Technologies+🚀"/>
@@ -239,160 +243,22 @@
 
 ---
 
-# 📊 GitHub Statistics
+# 🔥 GitHub Heatmap
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saitharun29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saitharun29&theme=tokyonight&hide_border=true"/>
+<img src="https://ghchart.rshah.org/58A6FF/saitharun29" alt="GitHub Contributions"/>
 
 </div>
 
 ---
 
-# 💻 Most Used Languages
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitharun29&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 GitHub Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saitharun29&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saitharun29&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 # 💻 LeetCode
 
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/Sai_Tharun29?theme=dark&font=Poppins&ext=contest"/>
-
-</div>
-
----
-
-# 📈 Contribution Calendar
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saitharun29&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📊 GitHub Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saitharun29&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saitharun29&theme=tokyonight"/>
-
-</div>
-
----
-
-# ⚡ Productivity Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saitharun29&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saitharun29&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-# 🐍 Contribution Snake
-
-> **Automatically generated every day using GitHub Actions**
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/saitharun29/saitharun29/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
-
----
-
-# 💬 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-# 📈 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-> **Don't have WakaTime?**
->
-> Simply remove the above section or create a free account at
->
-> https://wakatime.com
-
----
-
-# 📌 Current Goals
-
-### 🚀 2026 Goals
-
-- ✅ Master Data Structures & Algorithms
-- ✅ Solve 500+ LeetCode Problems
-- ✅ Build Scalable Flutter Applications
-- ✅ Learn Backend Development
-- ✅ Explore Cloud Computing
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Engineering Internship
-
----
-
-# 💡 Favorite Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </div>
 
