@@ -4,64 +4,46 @@
 
 ### 🚀 Software Developer | AI/ML Enthusiast | Flutter Developer | Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Impactful+Software.;Flutter+Developer.;AI+%26+Machine+Learning+Enthusiast.;Always+Learning+Something+New." />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Passionate+Software+Developer;Flutter+%26+Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Technology+That+Makes+an+Impact;Always+Learning+%F0%9F%9A%80"/>
+</p>
+
+<p align="center">
+<a href="mailto:saitharunreddynallala@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/saitharunreddynallala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-🎓 B.Tech in Computer Science & Engineering  
-📍 Amrita Vishwa Vidyapeetham (2023 – 2027)
+🎓 **B.Tech in Computer Science & Engineering**  
+📍 Amrita Vishwa Vidyapeetham (2023–2027)
 
-💡 I enjoy building software that solves real-world problems through modern technologies and intuitive user experiences.
+I'm a passionate Computer Science undergraduate who enjoys transforming ideas into impactful software. I love building scalable applications, exploring Artificial Intelligence, and continuously learning modern technologies.
 
-I have experience in
-
-- 📱 Flutter Application Development
-- 🌐 Full Stack Web Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Science
-- 💻 Software Development
-
-Currently learning
+### 🌱 Currently Learning
 
 - Data Structures & Algorithms
-- Advanced Flutter
-- Backend Development
+- Flutter & Firebase
 - System Design
+- Backend Development
 - Cloud Technologies
-
----
-
-# 🌐 Connect with Me
-
-<p align="left">
-<a href="mailto:saitharunreddynallala@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://linkedin.com/in/saitharunreddynallala">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,dart,javascript,html,css,sql"/>
 </p>
 
-### Frameworks
+### Frameworks & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,firebase"/>
@@ -73,7 +55,7 @@ Currently learning
 <img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 </p>
 
-### Tools
+### Developer Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,eclipse,postman"/>
@@ -81,13 +63,9 @@ Currently learning
 
 ### AI / Data Science
 
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
+- Scikit-Learn
 - Pandas
 - NumPy
-- Scikit-Learn
 - Matplotlib
 - Jupyter Notebook
 
@@ -97,19 +75,19 @@ Currently learning
 
 ## 📱 Analyn – Therapist Service Platform
 
-**Flutter • Firebase • Cloud Firestore**
+**Flutter • Firebase**
 
-✔ Secure Authentication
+✨ Secure Authentication
 
-✔ Therapist KYC Verification
+✨ Therapist KYC Verification
 
-✔ Real-time Job Management
+✨ Real-time Job Management
 
-✔ Earnings Dashboard
+✨ Earnings Dashboard
 
-✔ Firebase Storage
+✨ Firebase Cloud Storage
 
-✔ Therapist–Client Communication
+✨ Therapist–Client Communication
 
 ---
 
@@ -118,8 +96,8 @@ Currently learning
 **React • MySQL**
 
 - Booking Management
-- Room Allocation
 - Customer Management
+- Room Allocation
 - Database Integration
 
 ---
@@ -128,10 +106,27 @@ Currently learning
 
 **Java • SQL • NetBeans**
 
-- Book Management
-- Issue & Return System
-- Member Records
+- Book Issue & Return
+- Member Management
 - SQL Database Integration
+
+---
+
+## ⌨️ Typing Tutor
+
+**C Programming**
+
+- Typing Practice
+- Speed & Accuracy Evaluation
+
+---
+
+## 🎮 Hangman Game
+
+**Python**
+
+- File Handling
+- Interactive Game Logic
 
 ---
 
@@ -143,11 +138,11 @@ Currently learning
 
 ---
 
-# 🤝 Volunteering
+# 🤝 Leadership & Volunteering
 
-🌍 Volunteer — ICSRF 2025 International Conference on Sustainable & Resilient Futures
+🌍 Volunteer — **ICSRF 2025** (International Conference on Sustainable & Resilient Futures)
 
-🎓 Entrepreneurship & Innovation Awareness Program (SSR Project)
+🎓 Volunteer — **Entrepreneurship & Innovation Awareness Program (SSR Project)**
 
 ---
 
@@ -169,27 +164,31 @@ Currently learning
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&column=4"/>
 </p>
 
 ---
 
-# 💡 Quote
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+# 💻 LeetCode
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins"/>
+</p>
+
+---
+
+# ✨ Quote
 
 > **"Code with curiosity. Build with purpose. Learn without limits."**
 
@@ -199,8 +198,10 @@ Currently learning
 
 ### 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge"/>
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
+
+*"Every project is another step toward becoming a better engineer."*
 
 </div>
